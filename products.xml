@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="products.css" ?>
+
+<products>
+<product>
+    <name>Vintage Denim Jacket</name>
+    <description>Classic faded denim jacket with distressed details</description>
+    <price>$70</price>
+    <category>clothing</category>
+    <category>vintage</category>
+</product>
+<product>
+    <name>Noise-Cancelling Headphones</name>
+    <description>Wireless over-ear headphones with active noise cancellation</description>
+    <price>$200</price>
+    <category>electronics</category>
+</product>
+<product>
+    <name>Yoga Mat</name>
+    <description>Non-slip yoga mat with extra cushioning</description>
+    <price>$40</price>
+    <category>sports</category>
+    <category>wellness</category>
+</product>
+<product>
+    <name>Laptop Backpack</name>
+    <description>Durable backpack with padded compartment for a 15-inch laptop</description>
+    <price>$60</price>
+    <category>clothing</category>
+    <category>accessories</category>
+</product>
+<product>
+    <name>Wireless Earbuds</name>
+    <description>Compact in-ear Bluetooth earbuds with charging case</description>
+    <price>$120</price>
+    <category>electronics</category>
+    <category>wearables</category>
+</product>
+<product>
+    <name>Electric Kettle</name>
+    <description>Stainless steel electric kettle with temperature control</description>
+    <price>$45</price>
+    <category>home</category>
+    <category>appliances</category>
+</product>
+<product>
+    <name>Camping Tent</name>
+    <description>Two-person waterproof tent with easy setup</description>
+    <price>$120</price>
+    <category>sports</category>
+    <category>outdoors</category>
+</product>
+<product>
+    <name>Desk Lamp</name>
+    <description>Adjustable LED desk lamp with USB charging port</description>
+    <price>$35</price>
+    <category>home</category>
+    <category>office</category>
+</product>
+</products>
